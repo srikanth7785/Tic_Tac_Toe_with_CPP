@@ -167,7 +167,6 @@ int main()
   {
     play_with_computer();
   }
-  
     return 0;
 }
 
